@@ -1,0 +1,55 @@
+rra. r. 60. 235
+
+et verba gignunt verba: adeo ut necesse sit ad instantias
+particulares, earumque series et ordines, recurrere; ut mox
+dicemus, quum ad modum et rationem constituendi notiones
+et axiomata deventum fuerit.
+
+LX.
+
+Idola, quae per verba intellectui imponuntur, duorum
+generum sunt¹ ; aut enim sunt rerum nomina, quae non sunt
+
+for the purpose of explaining the most important distinctions which we
+either find obtruded on our notice, or think it desirable to establisb.
+Moreover, these definitions, when constructed, donot pretend to represent
+concrete facts but only certain abstract relations of figures and numbers.
+That such relations exist, if not strictly, at least approximately, no one
+disputes3 they can generally be expressed inafew words, which adequately
+and exhaustively represent them, anda single technical term is easily
+invented or appropriated, by means of which the definition can in future
+be summoned before the mind. About the adequacy or correctness of
+these definitions there is seldom any difference of opinion, and, even if
+there be, it does not affect the validity of the subsequent reasoning; for,
+provided that the same relation be invariahly designated by the same
+name, and that the logical operations be correctly performed, there can
+be no error in the result. But, when we come to deal with the complex
+relations of nature and life, it is widely different. Here, Induction occu-
+pies a far more important place, and, till we have ascertained, distinguished,
+and classified the more important properties of the objects under investi-
+galion, it is in vain to begin the work of Definition. It is only aiter
+we have completed the inductiva stage of the enquiry that we are in a
+position to draw upa list of definitions, or, if we venture to do so before,
+we ought to regard them simply as incomplete and provisional‚ and hold
+ourselves in constant readiness to review and correct them. Hence,
+while the inductive stage of a science is progressive, and therefore,
+incomplete‚ it is natural that much controversy should turn on the
+definitions. ‘It is necessary,' as bacon says, ‘to be constantly recurring
+to particular instances,' and we cannot safely reason deductively from
+the definitions as data, till we have firmly established the inductions on
+which they rest, and of which they are frequently the expressions, and,
+indeed, the summaries.
+
+On the nature and place of Definition in Mathematics‚ the student may
+referto Dugald Stewart's Section, entitled ‘Of Mathematical Demon-
+stration,' in the Philosophy of the Human Mind (Hamilton’s Ed.,v01. ii.
+pp. 113-152), and Mill’s Logia bk. ii. chs. 5, 6; and on the distinction
+between ‘F inal and Complete’ and ‘Incomplete and Provisional' Defi-
+nitions, to the Editor¹s chapter on Definitions in his Elements of De-
+ductive Logic.
+
+¹ This division of the ldola Fori is important. Sometimes we are
+deceived by words expressing supposed entities which have no actual
+
+ 
+
